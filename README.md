@@ -3,7 +3,7 @@
 The electronic card transactions (ECT) series covers debit, credit, and charge card transactions with New Zealand-based merchants from the years 2000 to 2023
 All figures are seasonally adjusted unless otherwise specified.
 
-Total retail spending was the highest in the year 2023, contributing upto 31.7% of total transaction.
+Total retail spending was the highest in the year 2023, contributing up to 31.7% of total transactions.
 
 **2022 spending vs 2023 spending**
 *  The **Hospitality** sector showed a significant increase of approximately 13.30%, suggesting a substantial recovery or growth in that period. Similarly, the **Non-retail excl. services** sector also showed a notable increase of around 13.24%.
@@ -17,3 +17,6 @@ Total retail spending was the highest in the year 2023, contributing upto 31.7% 
 Some categories, such as **Fuel** and **Hospitality**, showed dips at certain points, which could be indicative of market fluctuations, economic downturns, or changes in consumer behavior.
 
 There's a noticeable shift in spending patterns in the most recent years, with some categories showing significant increases. This could be attributed to various factors including economic policy changes, market conditions, or societal shifts post-2020.
+
+
+**PS - Click on the Google Colab link mentioned at the top in the code section to view the visualizations**
