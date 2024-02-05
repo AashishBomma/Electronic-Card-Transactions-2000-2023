@@ -19,4 +19,4 @@ Some categories, such as **Fuel** and **Hospitality**, showed dips at certain po
 There's a noticeable shift in spending patterns in the most recent years, with some categories showing significant increases. This could be attributed to various factors including economic policy changes, market conditions, or societal shifts post-2020.
 
 
-**PS - Click on the Google Colab link mentioned at the top in the code section to view the visualizations**
+**PS - Click on the Google Colab link mentioned in the preview of the ipynb file to view the visualizations**
